@@ -9,7 +9,7 @@ Reflex utiliza una arquitectura de programación reactiva que permite a los desa
 
 ## Uso
 
-Para utilizar el código, sigue las instrucciones https://reflex.dev/docs/getting-started/introduction/[https://reflex.dev/docs/getting-started/introduction/]
+Para utilizar el código, sigue las instrucciones https://reflex.dev/docs/getting-started/introduction/
 
 ### CONTRIBUIR
 
