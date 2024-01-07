@@ -1,7 +1,7 @@
 # reflex-dev
 Este repositorio contiene proyectos construidos con reflex.dev, un framework para crear apps interactivas utilizando únicamente Python.
 
-* english_teacher.py. Este proyecto es un asistente de enseñanza de inglés basado en IA construido con reflex.dev. Es asistente de enseñanza de inglés, pero tiene mal humor. El asistente puede responder a preguntas comunes sobre el aprendizaje del inglés y proporcionar recursos útiles para la práctica fuera del aula. Es solo un ejemplo y sirve para ver el potencial de la inteligencia artificial generativa en aplicaciones reales.
+* english_teacher.py. Este proyecto es un asistente de enseñanza de inglés basado en IA construido con reflex.dev. Simula un profesor de inglés, pero tiene mal humor. El asistente puede responder a preguntas comunes sobre el aprendizaje del inglés y proporcionar recursos útiles para la práctica fuera del aula. Es solo un ejemplo y sirve para ver el potencial de la inteligencia artificial generativa en aplicaciones reales.
 
 ## Acerca de Reflex
 
