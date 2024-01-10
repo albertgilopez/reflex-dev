@@ -3,13 +3,12 @@ from rxconfig import config
 import reflex as rx
 from english_teacher import style
 
-# Importar la librería dotenv para cargar variables de entorno
 from dotenv import load_dotenv
 load_dotenv()
 
 from openai import OpenAI
 
-client = OpenAI() # Crear una instancia del cliente de OpenAI
+client = OpenAI()
 
 docs_url = "https://github.com/albertgilopez"
 linkedin_url = "https://www.linkedin.com/in/albertgilopez/"
